@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/bisakol"];
+const statusMessages = [".gg/bisakol","Browsing Bisakol Service"];
 
 
 let currentIndex = 0;
